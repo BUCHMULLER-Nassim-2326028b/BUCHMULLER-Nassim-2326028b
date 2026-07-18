@@ -17,7 +17,7 @@ Building modern software, beautiful interfaces and creative experiences.
 
 ---
 
-### 💖 About me
+## 💖 About me
 
 - Computer Science graduate
 - Former Software Developer Intern @ BPCE Solutions Informatiques
