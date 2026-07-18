@@ -14,15 +14,13 @@ Building modern software, beautiful interfaces and creative experiences.
 
 </div>
 
-
 ---
 
 ## 💖 About me
-
-- Computer Science graduate
-- Former Software Developer Intern @ BPCE Solutions Informatiques
-- Built an AI-assisted UI generation tool using Angular & TypeScript
-- Passionate about UI/UX, branding and creative development
+- Computer Science graduate from **IUT Aix-Marseille**
+- Former Software Developer Intern @ **BPCE Solutions Informatiques**
+- Built an **AI-assisted UI generation tool** using **Angular & TypeScript**
+- Passionate about **software engineering**, **UI/UX** and **creative development**
 - Based in Marseille, France
 
 ## 💻 Tech Stack
