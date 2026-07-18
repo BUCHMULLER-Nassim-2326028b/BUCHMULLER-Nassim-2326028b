@@ -30,7 +30,7 @@ Building modern software, beautiful interfaces and creative experiences.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,ts,js,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,mysql" />
 </p>
 
 ### Frontend & Mobile
